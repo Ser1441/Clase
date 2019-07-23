@@ -5,5 +5,5 @@ $b=5;
 $c=$a+$b;
 echo $c;
 
-//esta es la rama
+//esta es la rama. arreglo movida.
 ?>
